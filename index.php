@@ -11,7 +11,7 @@
 <script type="text/javascript">
 	setInterval(function(){
 		$("#reload").load(location.href + "#reload");
-	}, 5000)
+	}, 10000)
 </script>
 <div id="reload">
 	<?php 
